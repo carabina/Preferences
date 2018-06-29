@@ -30,7 +30,7 @@ github "sindresorhus/Preferences"
 
 #### CocoaPods
 
-```
+```ruby
 pod 'Preferences'
 ```
 
